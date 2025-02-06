@@ -1,0 +1,1 @@
+SELECT * FROM Crime LIMIT 10;
